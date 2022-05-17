@@ -51,6 +51,7 @@
 
 html{
     font-size: 3vw;
+    scroll-behavior: smooth;
     @include tab{
         font-size: 5.1vw;
     }

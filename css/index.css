@@ -420,6 +420,7 @@ nav h4{
 .cnt04 .artGroup{
     width: 300%;
     display: flex;
+    margin-left: -100%;
 }
 .cnt04 .artFamily{
     width: calc(100% / 3);
